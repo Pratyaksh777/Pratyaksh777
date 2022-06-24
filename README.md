@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh Shrivastava</h1>
 <h3 align="center">Student in Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyaksh777"&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaksh777" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyaksh777"" alt="pratyaksh777"" /></a> </p>
 
 - 🔭 I’m currently waiting to start work at Accenture and looking for other roles 
 
