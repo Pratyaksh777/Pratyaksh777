@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh Shrivastava</h1>
 <h3 align="center">Student in Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pratyaksh777"&label=Profile%20views&color=0e75b6&style=flat" alt="Pratyaksh777" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyaksh777"&label=Profile%20views&color=0e75b6&style=flat" alt="pratyaksh777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pratyaksh777"" alt="Pratyaksh777"" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratyaksh777"" alt="pratyaksh777"" /></a> </p>
 
-- 🔭 I’m currently working on [Slimjar](https://github.com/SlimJar/slimjar)
+- 🔭 I’m currently waiting to start work at Accenture and looking for other roles 
 
-- 🌱 I’m currently learning **Haskell, Elm, Ruby, ReactJS**
+- 🌱 I’m currently learning **Peace of mind**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vshnv](https://github.com/Pratyaksh777)
 
-- 📫 How to reach me **pratyaksh0shrivastava.com**
+- 📫 How to reach me **pratyaksh0shrivastava@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
