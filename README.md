@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Peace of mind**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vshnv](https://github.com/Pratyaksh777)
+- 👨‍💻 All of my projects are available at [https://github.com/Pratyaksh777](https://github.com/Pratyaksh777)
 
 - 📫 How to reach me **pratyaksh0shrivastava@gmail.com**
 
